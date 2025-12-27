@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Akarviii
 ## My name is also Daniel Arévalo
 
-💻 Software Developer, and doing my major in software engineering.
-🎓 VII semester of Software Engineering. 
+💻 Software Developer, and doing my major in software engineering.<br>
+🎓 VII semester of Software Engineering.<br>
 🌐 Interested in developing webs and C++ applications.
 
 ## 🚀 About Me
-I focus on building functional and well-structured applications.
+I focus on building functional and well-structured applications.<br>
 I am interested in the world of hacking and macros.
 
 ## 🛠️ In Developing
