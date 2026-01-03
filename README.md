@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Akarviii
-## My name is also Daniel Arévalo
 
 💻 Software Developer, and doing my major in software engineering.<br>
 🎓 VII semester of Software Engineering.<br>
