@@ -11,7 +11,8 @@ I am interested in the world of hacking and macros.
 ## 🛠️ In Developing
 - SIJUNS (Sistema Integral de Juventud Norte de Santander) - Cruz Roja Colombiana
 - SIEDI (Sistema Integral Empresarial de Data e Informacion).
-- [COINMADERAS S.A.S.](https://coinmaderas.com/)
+- [COINMADERAS SAS.](https://coinmaderas.com/)
+- Open Services Sistemas Electrónicos SAS
 
 ## 📫 Contact Me
 - [GitHub](https://github.com/Akarviii)
