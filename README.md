@@ -1,5 +1,5 @@
 # 👋 Hi, I'm "Akarviii".
-## I don't like posting stuff about me online. So, in resume...
+## I don't like posting personal stuff of me. So, in resume...
 
 💻 Software Developer, and doing my major in software engineering.<br>
 🎓 VII semester of Software Engineering.<br>
