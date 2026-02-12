@@ -4,7 +4,7 @@
 💻 Software Developer, and doing my major in software engineering.<br>
 🎓 VII semester of Software Engineering.<br>
 🎓 Administrative Assistant Graduated.<br>
-🎓 English Aptitude Tecnology - C1 Level.<br>
+🎓 English Linguistic Aptitude Tecnology - C1 Level.<br>
 🌐 Interested in developing webs and C++ applications.
 
 ## 🚀 About Me
@@ -20,5 +20,4 @@ I am interested in the world of hacking and macros.
 
 ## 📫 Contact Me
 - [GitHub](https://github.com/Akarviii)
-- 📧 [Email Bussines #1 (danielarevalobussines@gmail.com)](mailto:danielarevalobussines@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Daniel,%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub.%20Tengo%20una%20idea.)
-- 📧 [Email Bussines #2 (vvpskvdbussines@gmail.com)](mailto:vvpskvdbussines@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Daniel,%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub.%20Tengo%20una%20idea.)
+- 📧 [Email Bussines (vvpskvdbussines@gmail.com)](mailto:vvpskvdbussines@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Daniel,%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub.%20Tengo%20una%20idea.)
