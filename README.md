@@ -1,4 +1,5 @@
-# I don't like posting personal stuff of me. So, in resume...
+# Hi there.
+## I don't like posting personal stuff of me. So, in resume...
 
 💻 Software Developer, and doing my major in software engineering.<br>
 🎓 VII semester of Software Engineering.<br>
