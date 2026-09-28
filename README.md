@@ -6,10 +6,6 @@
 <!-- ABOUT ME -->
 <h2 align="center">Sobre Mí</h2>
 
-<p align="center">
-  Ingeniero de Software en formación con inglés C1 y enfoque Full Stack, DevOps y Ciencia de Datos. Especializado en diseñar y desplegar productos digitales escalables desde la base de datos hasta la nube usando React, Python, Java y Docker. Con experiencia demostrada en el desarrollo autónomo de e-commerce en producción, integración de soluciones con IA y análisis de datos de negocio (Pandas, Power BI). Destaca por su autonomía, sólida base en arquitectura de software y orientación a resultados.
-</p>
-
 </br>
 
 <div align="center">
