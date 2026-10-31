@@ -45,17 +45,23 @@
 
 <img src="./assets/skills/php.svg" alt="PHP" width="70"/>&nbsp;
 <img src="./assets/skills/java.svg" alt="Java" width="70"/>&nbsp;
+<img src="./assets/skills/kotlin.svg" alt="Kotlin" width="70"/>&nbsp;
+<img src="./assets/skills/springboot.svg" alt="Spring Boot" width="70"/>&nbsp;
 <img src="./assets/skills/python.svg" alt="Python" width="70"/>&nbsp;
+<img src="./assets/skills/django.svg" alt="Django" width="70"/>&nbsp;
 <img src="./assets/skills/express.svg" alt="Express" width="70"/>
 
 ### Base de Datos
 
-<img src="./assets/skills/excel.svg" alt="Excel" width="70"/>&nbsp;
+<img src="./assets/skills/sql.svg" alt="SQL" width="70"/>&nbsp;
 <img src="./assets/skills/mysql.svg" alt="MySQL" width="70"/>&nbsp;
-<img src="./assets/skills/postgresql.svg" alt="PostgreSQL" width="70"/>
+<img src="./assets/skills/postgresql.svg" alt="PostgreSQL" width="70"/>&nbsp;
+<img src="./assets/skills/excel.svg" alt="Excel" width="70"/>
 
 ### Herramientas
 
+<img src="./assets/skills/linux.svg" alt="Linux" width="70"/>&nbsp;
+<img src="./assets/skills/docker.svg" alt="Docker" width="70"/>&nbsp;
 <img src="./assets/skills/vscode.svg" alt="VS Code" width="70"/>&nbsp;
 <img src="./assets/skills/git.svg" alt="Git" width="70"/>&nbsp;
 <img src="./assets/skills/github.svg" alt="GitHub" width="70"/>&nbsp;
