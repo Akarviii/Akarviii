@@ -10,40 +10,23 @@
 
 ### Frontend
 
-<img src="./assets/skills/html5.svg" alt="HTML5" width="70"/>&nbsp;
-<img src="./assets/skills/css3.svg" alt="CSS3" width="70"/>&nbsp;
-<img src="./assets/skills/javascript.svg" alt="JavaScript" width="70"/>&nbsp;
-<img src="./assets/skills/vue.svg" alt="Vue.js" width="70"/>&nbsp;
-<img src="./assets/skills/wordpress.svg" alt="WordPress" width="70"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,wordpress&theme=dark&perline=5" alt="Frontend" />
 
 ### Backend
 
-<img src="./assets/skills/php.svg" alt="PHP" width="70"/>&nbsp;
-<img src="./assets/skills/java.svg" alt="Java" width="70"/>&nbsp;
-<img src="./assets/skills/kotlin.svg" alt="Kotlin" width="70"/>&nbsp;
-<img src="./assets/skills/springboot.svg" alt="Spring Boot" width="70"/>&nbsp;
-<img src="./assets/skills/python.svg" alt="Python" width="70"/>&nbsp;
-<img src="./assets/skills/django.svg" alt="Django" width="70"/>&nbsp;
-<img src="./assets/skills/express.svg" alt="Express" width="70"/>
+<img src="https://skillicons.dev/icons?i=php,java,kotlin,spring,py,django,express&theme=dark&perline=7" alt="Backend" />
 
 ### Base de Datos
 
-<img src="./assets/skills/sql.svg" alt="SQL" width="70"/>&nbsp;
-<img src="./assets/skills/mysql.svg" alt="MySQL" width="70"/>&nbsp;
-<img src="./assets/skills/postgresql.svg" alt="PostgreSQL" width="70"/>&nbsp;
-<img src="./assets/skills/excel.svg" alt="Excel" width="70"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=2" alt="MySQL y SQL" />&nbsp;
+<img src="./assets/icons/excel.svg" alt="Excel" height="48" />
 
 ### Herramientas
 
-<img src="./assets/skills/linux.svg" alt="Linux" width="70"/>&nbsp;
-<img src="./assets/skills/docker.svg" alt="Docker" width="70"/>&nbsp;
-<img src="./assets/skills/vscode.svg" alt="VS Code" width="70"/>&nbsp;
-<img src="./assets/skills/git.svg" alt="Git" width="70"/>&nbsp;
-<img src="./assets/skills/github.svg" alt="GitHub" width="70"/>&nbsp;
-<img src="./assets/skills/powerbi.svg" alt="Power BI" width="70"/>&nbsp;
-<img src="./assets/skills/powerplatform.svg" alt="Power Platform" width="70"/>&nbsp;
-<img src="./assets/skills/trello.svg" alt="Trello" width="70"/>&nbsp;
-<img src="./assets/skills/figma.svg" alt="Figma" width="70"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,vscode,git,github,figma&theme=dark&perline=6" alt="Herramientas" />&nbsp;
+<img src="./assets/icons/trello.svg" alt="Trello" height="48" />&nbsp;
+<img src="./assets/icons/powerbi.svg" alt="Power BI" height="48" />&nbsp;
+<img src="./assets/icons/powerplatform.svg" alt="Power Platform" height="48" />
 
 </div>
 
