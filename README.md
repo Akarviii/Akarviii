@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=200&section=header&text=¡Bienvenido!%20soy%20Daniel%20&fontSize=42&fontColor=c9d1d9&animation=fadeIn&fontAlignY=30&desc=Ingeniero%20de%20Software%20Full%20Stack%20|%20DevOps%20|%20Analista%20de%20Datos&descSize=16&descAlignY=50&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=200&section=header&text=¡Bienvenido!%20&fontSize=42&fontColor=c9d1d9&animation=fadeIn&fontAlignY=30&desc=Soy%20Ingeniero%20de%20Software%20|%20Associate%20AI%20Engineer%20|%20Enfoque%20en%20DevOps%20|%20Desarrollador%20Web&descSize=16&descAlignY=50&descAlign=50"/>
 </div>
 
 <!-- ABOUT ME -->
@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://akarsolutions.dev" target="_blank">
-    <img src="./assets/portfolio-badge.svg" alt="Portafolio Web &amp; Proyectos - akarsolutions.dev" width="340"/>
+    <img src="./assets/portfolio-badge.svg" alt="Portafolio Personal - akarsolutions.dev" width="340"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:danielarevalobussines@gmail.com">
