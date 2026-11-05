@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=200&section=header&text=¡Bienvenido!%20&fontSize=42&fontColor=c9d1d9&animation=fadeIn&fontAlignY=30&desc=Ingeniero%20de%20Software%20|%20Associate%20AI%20Engineer%20|%20Enfoque%20en%20DevOps%20|%20Desarrollador%20Web&descSize=16&descAlignY=50&descAlign=50"/>
 </div>
 
-<br/>
-
 <!-- TECH SKILLS -->
 <h2 align="center">Habilidades Técnicas</h2>
 
