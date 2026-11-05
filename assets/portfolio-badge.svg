@@ -70,7 +70,7 @@
 
   <!-- Typography -->
   <text x="60" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#f0f6fc" letter-spacing="0.3">
-    Portafolio Web &amp; Proyectos
+    Portafolio Personal
   </text>
   <text x="60" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#d2a8ff" letter-spacing="0.2">
     akarsolutions.dev
