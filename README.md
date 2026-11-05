@@ -17,11 +17,11 @@
     <img src="./assets/email-badge.svg" alt="Email - danielarevalobussines@gmail.com" width="340"/>
   </a>
   <br/><br/>
-  <a href="https://github.com/Akarvii" target="_blank">
+  <a href="https://github.com/Akarviii" target="_blank">
     <img src="./assets/github-badge.svg" alt="GitHub - Akarviii" width="340"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/daniel-alejandro-ar%C3%A9valo-g%C3%BCech%C3%A1-115352304/" target="_blank">
+  <a href="https://www.linkedin.com/in/danielarevaloguecha/" target="_blank">
     <img src="./assets/linkedin-badge.svg" alt="LinkedIn - Daniel" width="340"/>
   </a>
 </div>
