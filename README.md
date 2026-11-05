@@ -3,29 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2d333b&height=200&section=header&text=¡Bienvenido!%20&fontSize=42&fontColor=c9d1d9&animation=fadeIn&fontAlignY=30&desc=Ingeniero%20de%20Software%20|%20Associate%20AI%20Engineer%20|%20Enfoque%20en%20DevOps%20|%20Desarrollador%20Web&descSize=16&descAlignY=50&descAlign=50"/>
 </div>
 
-<!-- ABOUT ME -->
-<h2 align="center">Sobre Mí</h2>
-
-</br>
-
-<div align="center">
-  <a href="https://akarsolutions.dev" target="_blank">
-    <img src="./assets/portfolio-badge.svg" alt="Portafolio Personal - akarsolutions.dev" width="340"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:danielarevalobussines@gmail.com">
-    <img src="./assets/email-badge.svg" alt="Email - danielarevalobussines@gmail.com" width="340"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Akarviii" target="_blank">
-    <img src="./assets/github-badge.svg" alt="GitHub - Akarviii" width="340"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/danielarevaloguecha/" target="_blank">
-    <img src="./assets/linkedin-badge.svg" alt="LinkedIn - Daniel" width="340"/>
-  </a>
-</div>
-
 <br/>
 
 <!-- TECH SKILLS -->
